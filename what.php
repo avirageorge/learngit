@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>An Easy way to learn Git</title>
+  <title>What Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -67,7 +67,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">WHO</a></li>
-        <li><a href="http://localhost/learngit/learngit/what.php">WHAT</a></li>
+        <li><a href="#">WHAT</a></li>
         <li><a href="#">WHERE</a></li>
       </ul>
     </div>
@@ -75,11 +75,11 @@
 </nav>
 
 <!-- First Container -->
-<div class="container-fluid bg-1 text-center">
+<!--<div class="container-fluid bg-1 text-center">
   <h3 class="margin">Who Am I?</h3>
   <img src="https://www.w3schools.com/bootstrap/bird.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
   <h3>I'm Avira George</h3>
-</div>
+</div>-->
 
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
